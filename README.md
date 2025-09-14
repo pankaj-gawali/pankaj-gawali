@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Pankaj Gawali
 
-<!--
-**pankaj-gawali/pankaj-gawali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Application Developer**  
+🔧 Skilled in: PHP | Laravel | CodeIgniter | MySQL  
+🎯 Goal: Becoming a Full-Stack Developer  
+🌱 Currently improving my skills in modern PHP frameworks & API integration  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pankaj-gawali-9a8279265/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, jQuery  
+- **Backend:** PHP, Laravel, CodeIgniter  
+- **Database:** MySQL  
+- **Others:** Git, GitHub, REST API Integration  
+
+---
+
