@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Skills
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, jQuery  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax  
 - **Backend:** PHP, Laravel, CodeIgniter  
 - **Database:** MySQL  
 - **Others:** Git, GitHub, REST API Integration  
