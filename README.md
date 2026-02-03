@@ -80,11 +80,17 @@ Aug 2023 – Sept 2024
 
 🎓 Education  
 
-- M.Sc. Computer Science – 2024  
-  K.K. Wagh College, Nashik  
+Master of Computer Science (M.Sc. – CS)  
+K.K. Wagh College, Nashik (Pune University) (2022 – 2024) | Percentage: 65.95%  
 
-- B.Sc. Computer Science – 2022  
-  K.K. Wagh College, Nashik  
+Bachelor of Computer Science (B.Sc. – CS)  
+K.K. Wagh College, Nashik (Pune University) (2019 – 2022) | Percentage: 77.27%  
+
+Higher Secondary Certificate (HSC – Science)  
+Karm. A. M. Patil Junior College, Pimpalner (2018 – 2019) | Percentage: 67.08%  
+
+Secondary School Certificate (SSC)  
+Karm. A. M. Patil School, Pimpalner (2017) | Percentage: 77.00%  
 
 ---
 
