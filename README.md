@@ -1,4 +1,4 @@
-Hi there, I'm Pankaj Gawali! 👋  
+**Hi there, I'm Pankaj Gawali! 👋**  
 
 Welcome to my GitHub profile!  
 I'm a backend-focused **Associate Software Engineer with 2+ years of experience** in building scalable web applications using **Core PHP, Laravel, MySQL, and MVC architecture**.  
